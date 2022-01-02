@@ -4,8 +4,3 @@ Vaults are investment instruments that employ a specific set of strategies for y
 
 
 
-
-
-## Creating a project
-
-Hit the big '+' button in your sidebar and select 'New Project' from the menu that pops up. Give your project a name, and you're good to go!
